@@ -1,0 +1,16 @@
+h1 {
+    font-size: 45px;
+    line-height: 1px
+}
+#tt{
+    line-height: 0;
+}
+.black{
+    font-weight:700 ;
+}
+.blue{
+    color: blue;
+}
+.id1{
+    text-indent:50px;
+}
